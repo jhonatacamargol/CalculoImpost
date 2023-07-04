@@ -1,0 +1,15 @@
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\calcularValorImposto\calcularValorImposto\bin\Debug\net7.0\calcularValorImposto.exe
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\calcularValorImposto\calcularValorImposto\bin\Debug\net7.0\calcularValorImposto.deps.json
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\calcularValorImposto\calcularValorImposto\bin\Debug\net7.0\calcularValorImposto.runtimeconfig.json
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\calcularValorImposto\calcularValorImposto\bin\Debug\net7.0\calcularValorImposto.dll
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\calcularValorImposto\calcularValorImposto\bin\Debug\net7.0\calcularValorImposto.pdb
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\calcularValorImposto\calcularValorImposto\obj\Debug\net7.0\calcularValorImposto.csproj.AssemblyReference.cache
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\calcularValorImposto\calcularValorImposto\obj\Debug\net7.0\calcularValorImposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\calcularValorImposto\calcularValorImposto\obj\Debug\net7.0\calcularValorImposto.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\calcularValorImposto\calcularValorImposto\obj\Debug\net7.0\calcularValorImposto.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\calcularValorImposto\calcularValorImposto\obj\Debug\net7.0\calcularValorImposto.csproj.CoreCompileInputs.cache
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\calcularValorImposto\calcularValorImposto\obj\Debug\net7.0\calcularValorImposto.dll
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\calcularValorImposto\calcularValorImposto\obj\Debug\net7.0\refint\calcularValorImposto.dll
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\calcularValorImposto\calcularValorImposto\obj\Debug\net7.0\calcularValorImposto.pdb
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\calcularValorImposto\calcularValorImposto\obj\Debug\net7.0\calcularValorImposto.genruntimeconfig.cache
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\calcularValorImposto\calcularValorImposto\obj\Debug\net7.0\ref\calcularValorImposto.dll
